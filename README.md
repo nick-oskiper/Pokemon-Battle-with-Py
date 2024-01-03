@@ -3,7 +3,7 @@ Introductory Python Pokemon game using only text. Meant to demonstrate usage of 
 
 # Introduction and Application
 
-	The system I developed is a Pokemon mimicking game. It is played in the output screen and only consists of text, however, images could be introduced in the future. 
+The system I developed is a Pokemon mimicking game. It is played in the output screen and only consists of text, however, images could be introduced in the future. 
 For those unfamiliar, Pokemon takes place in a fictional world with wild creatures called Pokemon that people can catch. These caught Pokemon can then be used in Pokemon battles, either to defeat other player’s Pokemon or to defeat uncaught, wild Pokemon. 
 My game uses the elements of catching wild Pokemon and battling other people (trainers) with their own Pokemon. Like the Pokemon games, from the beginning the user is brought into a fantasy world and gets to catch their first Pokemon, involving a Professor. Then the user gets to embark on their own journey, either traveling to a nearby village, where they unsuspectingly meet trainers to fight or into the forest, where they will be able to catch even more Pokemon.
 These features make the game interactive and slightly strategic. The user doesn’t win against the rival trainers every time (though if the user catches Pokemon in the forest before they enter the village then they can). But, rather than making a difficult game I focused more on creativity.
